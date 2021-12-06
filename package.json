@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev": "nuxi dev",
+    "generate": "nuxi generate"
+  },
+  "dependencies": {
+    "@nuxt/bridge": "npm:@nuxt/bridge-edge@^3.0.0-27307420.6a25d3e",
+    "nuxt-edge": "^2.16.0-27312496.ab1c6cb4"
+  }
+}
