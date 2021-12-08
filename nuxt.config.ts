@@ -26,4 +26,7 @@ export default defineNuxtConfig({
     // Config for Vite
   },
   components: true,
+  buildModules: [
+    '@pinia/nuxt'
+  ]
 })
